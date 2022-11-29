@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: (Sooo interesting)
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Adam MEDRAGH. I'm a CS student, passionate about Tech & AI and this is my Website. What can you find here? well:
 
 - I rock a great mustache
 - I'm extremely loyal to my family
