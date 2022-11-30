@@ -3,5 +3,5 @@ layout: page
 title: Resume
 ---
 
-# My Res
+# My Resume
 hello world
