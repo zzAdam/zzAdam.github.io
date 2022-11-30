@@ -3,5 +3,5 @@ layout: page
 title: Resume
 ---
 
-# Contact Page
+# My Res
 hello world
