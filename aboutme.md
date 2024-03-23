@@ -8,7 +8,9 @@ My name is Adam MEDRAGH. I'm a CS student, passionate about Tech & AI and this i
 
 - My different Projects
 - My Resume
-- And one day maybe some other things :)
+- And one day maybe some other things :D
+
+
 
 
 ### My story
