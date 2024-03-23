@@ -21,10 +21,11 @@ author: zzAdam
 
 navbar-links:
   About Me: "aboutme"
-  #Resources:
-  #  - My Website: "https://zzadam.github.io"
-  #  - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://zzadam.github.io"
+  Resources:
+    - My Github: "https://github.com/zzAdam/"
+    - My LinkedIn: "https://www.linkedin.com/in/adam-medragh/"
+
+  My Projects: "projects"
   My Resume: "Resume"
 
 ################
