@@ -21,12 +21,13 @@ author: zzAdam
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - My Github: "https://github.com/zzAdam/"
-    - My LinkedIn: "https://www.linkedin.com/in/adam-medragh/"
-
   My Projects: "projects"
   My Resume: "Resume"
+  Contact Me :
+    - My Github: "https://github.com/zzAdam/"
+    - My LinkedIn: "https://www.linkedin.com/in/adam-medragh/"
+    - My E-mail:  "mailto:amedragh@gmail.com"
+
 
 ################
 # --- Logo --- #
