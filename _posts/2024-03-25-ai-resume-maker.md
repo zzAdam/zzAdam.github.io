@@ -5,7 +5,8 @@ subtitle: "How AI is revolutionizing job applications"
 cover-img: /assets/img/aiautoresume_cover.jpg
 thumbnail-img: /assets/img/aiautoresume_thumb.png
 gh-repo: https://github.com/zzAdam/zzAdam.github.io
-gh-badge: [star, fork, follow]tags: [projects, AI, resume, job application]
+gh-badge: [star, fork, follow]
+tags: [projects, AI, resume, job application]
 
 ---
 
