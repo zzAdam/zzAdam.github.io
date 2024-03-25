@@ -26,7 +26,7 @@ The journey of creating AIAutoResume involved:
 
 ### Moving Forward
 
-Developing AIAutoResume was an enriching experience that combined problem-solving with technological innovation. It reflects the potential of AI to simplify complex tasks and represents a step toward the future of job applications. 
+Developing AIAutoResume was an enriching experience that combined problem-solving with technological innovation. It reflects the potential of AI to simplify complex tasks and represents a step toward the future of job applications.
 
 I'm excited about the possibilities this project opens up and look forward to continuing to explore the intersection of technology and practical solutions.
 
