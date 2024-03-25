@@ -4,8 +4,9 @@ title: "AIAutoResume: Elevating the Resume Writing Process"
 subtitle: "How AI is revolutionizing job applications"
 cover-img: /assets/img/aiautoresume_cover.jpg
 thumbnail-img: /assets/img/aiautoresume_thumb.png
-share-img: /assets/img/aiautoresume_share.jpg
-tags: [projects, AI, resume, job application]
+gh-repo: https://github.com/zzAdam/zzAdam.github.io
+gh-badge: [star, fork, follow]tags: [projects, AI, resume, job application]
+
 ---
 
 In the quest to navigate the job market more effectively, I found a common challenge many job seekers face: tailoring a resume to a specific role. This led to the creation of **AIAutoResume**—a tool that merges my fascination with artificial intelligence with a practical solution to a widespread problem.
