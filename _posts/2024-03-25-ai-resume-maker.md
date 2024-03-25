@@ -1,7 +1,7 @@
 ---
 layout: post
-title: AIAutoResume: Elevating the Resume Writing Process
-subtitle: How AI is revolutionizing job applications
+title: "AIAutoResume: Elevating the Resume Writing Process"
+subtitle: "How AI is revolutionizing job applications"
 cover-img: /assets/img/aiautoresume_cover.jpg
 thumbnail-img: /assets/img/aiautoresume_thumb.png
 share-img: /assets/img/aiautoresume_share.jpg
