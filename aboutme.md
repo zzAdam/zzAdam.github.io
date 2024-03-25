@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: (Sooo interesting)
+subtitle: (And my life!)
 ---
 
 My name is Adam MEDRAGH. I'm a CS student, passionate about Tech & AI and this is my Website. What can you find here? well:
